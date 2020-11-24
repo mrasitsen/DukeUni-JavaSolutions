@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part2
+comment0.text=\n\ Write\ a\ description\ of\ Part1\ here.\n\ \n\ @author\ (mrsen)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=stringA\ stringB
+comment1.target=int\ countOccurances(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ testCountOccurances()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
